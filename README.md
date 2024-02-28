@@ -4,5 +4,7 @@ Title: Multibiomarker evaluation of pollutant effects in the Atlantic stingray (
 Thesis Research: University of North Florida
 Author: John Whalen and Jim Gelsleichter
 
+Sites: Upper & Middle St Johns River, Nassau Sound, St Simons Sound, Lake George, Lake Jessup, Lake Monroe 
+
 
 
