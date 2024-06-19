@@ -2,15 +2,21 @@
 
 File: SJR_Sabina_All_Data.txt
 
-Maturity
+## ID
+SJR14: 2014
+SJR15: 2015
+SJR16: 2016
+AEB: 2002-2005
+
+## Maturity
 Mature: 1
 Immature: 0
 
-Sex
+## Sex
 Male: 1
 Female: 0
 
-Site
+## Site
 GA: 1
 SMR: 2
 NR: 3
